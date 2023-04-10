@@ -18,4 +18,3 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *var);
 char *_strpbrk(char *s, char *var);
 char *_strstr(char *haystack, char *needle);
-
