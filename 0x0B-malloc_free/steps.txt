@@ -1,0 +1,17 @@
+Task 1 Steps
+
+The function create_array is defined with two arguments: an unsigned integer size and a character c.
+
+The function first declares a character pointer i and an unsigned integer n.
+
+The function checks if size is equal to 0. If it is, the function returns NULL.
+
+The function then allocates memory for an array of size characters using the malloc function. If malloc returns NULL, the function also returns NULL to indicate an error in memory allocation.
+
+The function then loops through the array and initializes each character to the value of c.
+
+Finally, the function returns a pointer to the array of characters.
+
+This function is useful for creating an array of characters of a specified size and initializing all of the characters in the array to the same value.
+
+***************************************************************
