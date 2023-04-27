@@ -7,8 +7,8 @@
 
 /**
  * struct list - node list struct
- * @strVal: string value
- * @strLen: string Length
+ * @str: string value
+ * @len: string Length
  * @next: pointer to the next node
  */
 
